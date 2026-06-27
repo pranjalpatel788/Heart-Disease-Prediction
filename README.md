@@ -44,8 +44,4 @@ All models were evaluated based on their accuracy in predicting the `target` var
 * `seaborn`
 * `scikit-learn`
 
-## Usage
-To run the analysis locally, execute the provided Jupyter Notebook:
-```bash
-jupyter notebook "Heart Diesease Predicttion.ipynb"
 
